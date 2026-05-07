@@ -1,7 +1,5 @@
 # Bank of America Research Engineer Portfolio Projects
 
-This repository contains five projects designed to match the Research Engineer - Data & AI role in Global Payment Solutions.
-
 ## Projects
 
 1. **Time-Series Forecasting System**
@@ -34,14 +32,3 @@ pip install -r requirements.txt
 python forecasting_pipeline.py
 ```
 
-Repeat for each folder.
-
-## Resume Positioning
-
-Use these projects to show experience in:
-- Time-series forecasting
-- A/B testing and experimentation
-- RAG and Generative AI systems
-- Stochastic optimization and dynamic pricing
-- NLP insight generation
-- Production-ready Python workflows
